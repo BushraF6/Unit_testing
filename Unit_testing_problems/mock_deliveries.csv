@@ -1,0 +1,16 @@
+batting_team,bowling_team,over,ball,batsman,non_striker,bowler,wide_runs,bye_runs,legbye_runs,noball_runs,penalty_runs,batsman_runs,extra_runs,total_runs,year
+RCB,SRH,1,1,Abd,Vk,Bk,0,0,0,0,0,6,0,6,2016
+RCB,SRH,1,2,Abd,Vk,Bk,0,0,0,0,0,2,0,2,2016
+RCB,SRH,2,1,Abd,Vk,Ka,0,0,0,0,0,4,0,4,2016
+RCB,SRH,2,2,Abd,Vk,Ka,0,0,0,0,0,4,0,4,2016
+RCB,SRH,2,3,Abd,Vk,Ka,0,0,0,0,0,6,0,6,2016
+RCB,SRH,3,1,Abd,Vk,Rk,0,0,0,1,0,0,1,1,2016
+RCB,SRH,3,2,Vk,Abd,Rk,0,0,0,0,0,6,0,6,2016
+RCB,SRH,3,3,Vk,Abd,Rk,0,0,0,0,0,0,0,0,2016
+RCB,SRH,3,4,Vk,Abd,Rk,0,2,0,0,0,0,2,2,2015
+RCB,SRH,3,5,Vk,Abd,Rk,1,1,0,0,0,0,2,2,2015
+KXIP,CSK,16,1,Kl,Cg,Ck,0,0,0,0,0,0,0,1,2015
+KXIP,CSK,16,2,Kl,Cg,Ck,0,0,3,0,0,0,3,3,2015
+KXIP,CSK,16,3,Kl,Cg,Ck,0,0,0,0,0,0,0,4,2015
+KXIP,CSK,16,4,Kl,Cg,Ck,0,0,0,1,0,1,1,2,2015
+KXIP,CSK,16,5,Kl,Cg,Ck,0,0,0,0,0,0,0,0,2015
